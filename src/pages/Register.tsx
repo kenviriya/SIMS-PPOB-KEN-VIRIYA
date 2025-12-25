@@ -4,7 +4,7 @@ import {useForm} from 'react-hook-form';
 import {Link, useNavigate} from 'react-router-dom';
 import {useState} from 'react';
 import IllustrasiLogin from '../assets/Illustrasi Login.png';
-import Logo from '../assets/Logo.png';
+import Logo from '../assets/logo.png';
 import {
   LucideAtSign,
   LucideEye,

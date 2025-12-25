@@ -1,5 +1,5 @@
 import {CheckCircle, XCircle} from 'lucide-react';
-import Logo from '../assets/Logo.png';
+import Logo from '../assets/logo.png';
 
 interface ModalProps {
   isOpen: boolean;

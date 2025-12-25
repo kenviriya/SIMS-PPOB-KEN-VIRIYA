@@ -8,7 +8,7 @@ import {setToken} from '../features/auth/authSlice';
 import * as yup from 'yup';
 import {yupResolver} from '@hookform/resolvers/yup';
 import {AxiosError} from 'axios';
-import Logo from '../assets/Logo.png';
+import Logo from '../assets/logo.png';
 import IllustrasiLogin from '../assets/Illustrasi Login.png';
 import {
   LucideAtSign,
